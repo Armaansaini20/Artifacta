@@ -50,7 +50,7 @@ export const FileUpload = ({ onChange }) => {
       try {
         // Make a POST request to the backend
         const response = await axios.post(
-          "http://localhost:5000/api/generate",
+          // "http://localhost:5000/api/generate",
           "https://artifacta.onrender.com/api/generate",
           formData,
           {
