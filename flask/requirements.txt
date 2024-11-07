@@ -5,4 +5,4 @@ Pillow
 requests
 google-generativeai
 gunicorn
-freeze
+
