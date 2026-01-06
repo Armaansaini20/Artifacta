@@ -1,5 +1,9 @@
 # 🧊 Artifacta – 2D Image to 3D Model Converter
 
+<img width="440" height="509" alt="artifacta-frontendview" src="https://github.com/user-attachments/assets/77c22981-75d5-4d15-a6e5-25520a04baf9" />
+
+<img width="376" height="458" alt="artifacta-modelgen" src="https://github.com/user-attachments/assets/6072ebf6-58f9-414a-a86a-dc74137aa635" />
+
 Artifacta is an AI-powered platform that transforms **2D images into interactive 3D models** using advanced generative AI and depth-estimation techniques.
 
 ---
@@ -65,5 +69,6 @@ The platform leverages AI-based depth estimation and mesh generation, delivering
 - Extensible pipeline for future enhancements  
 
 ---
+
 
 
